@@ -1,0 +1,64 @@
+body {
+    background-color: #ff6500;
+
+}
+
+.heading-1 {
+    text-align: center;
+}
+
+.help {
+    /* display: inline; */
+    border-radius: 50%;
+    color: white;
+}
+
+.help-btn {
+    width: 3rem;
+    height: 3rem;
+    line-height: 2rem;
+    border-radius: 50%;
+    padding: 0;
+    background: #040303;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    color: white;
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    text-decoration: none;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #e9e9e9;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ffc55a;
+}
+
+.video01 {
+    width: 50%;
+}
+
+.main-webpage {
+    background-color: lightgray;
+}
+
+.main-video {
+    display: flex;
+    justify-content: center;
+}
