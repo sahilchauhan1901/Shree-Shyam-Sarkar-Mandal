@@ -95,7 +95,7 @@ background-color:#FF9800;
 .btn {
     border-radius: 3px;
     border: 1px solid black;
-    margin: 5px 131px;
+    margin: 10px;
     font-size: 23px;
     cursor: pointer;
     background-color: black;
@@ -106,7 +106,7 @@ background-color:#FF9800;
     .btn {
         border-radius: 3px;
         border: 1px solid black;
-        margin: 5px 120px;
+        margin: 10px;
         font-size: 23px;
         cursor: pointer;
         background-color: black;
